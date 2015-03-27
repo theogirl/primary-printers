@@ -1,0 +1,11 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+Redirect 301 "/PP site - P-ECO cups.html" http://www.primaryprinters.com/index.html
+Redirect 301 "/PP site - PL-ECO cups.html" http://www.primaryprinters.com/index.html
+Redirect 301 "/PP site - paper cups.htm" http://www.primaryprinters.com/index.html
+Redirect 301 "/PP site - plastic cups.html" http://www.primaryprinters.com/index.html
+Redirect 301 /glassflyer_PP.jpg http://www.primaryprinters.com/index.html
+Redirect 301 "/PP site - pfc cups.html" http://www.primaryprinters.com/index.html
+Redirect 301 "/PP site - download.html" http://www.primaryprinters.com/index.html
+Redirect 301 "/GENERAL INFORMATION.pdf" http://www.primaryprinters.com/index.html
